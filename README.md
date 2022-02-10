@@ -34,7 +34,7 @@ You will be required to have NMAP installed for Windows:
 
 https://nmap.org/download.html
 
-See under "Microsofl Windows binaries"
+See under "Microsoft Windows binaries"
 
 "Latest stable release self-installer"
 
