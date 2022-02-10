@@ -59,6 +59,8 @@ To do this open CMD, right click on the top left of the window and select "Defau
 
 Untick the "Quick Edit Mode", click "OK" and close the CMD to save the setting.
 
+Right click nmap_full_scan.bat file and run as administrator
+
 
 *NAMING DATA*
 
